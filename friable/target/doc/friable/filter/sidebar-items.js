@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Filter","A filter contains a list of tuples with the characters that will be used as separators, and a boolean indicatinf whether or not they'll be a token"]]});
